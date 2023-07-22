@@ -1,1 +1,3 @@
 # software-essentialist
+
+Initial commit
